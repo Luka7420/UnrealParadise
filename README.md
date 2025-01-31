@@ -2,14 +2,10 @@
 
 This project is my final homework assignment for the **Epic Games Course 2: Unreal Engine Fundamentals**. For this project, I chose to create a **Viking Island** theme, featuring a fully functional environment with assets, sounds, foliage, and lighting, all mandatory components for the assignment.
 
-## Description
-Unreal Paradise is a scenic Viking island with diverse terrain, immersive lighting, and atmospheric sound design. The island environment features a variety of assets, such as trees, rocks, and structures that contribute to the theme of the Viking age. The project demonstrates the use of Unreal Engine's powerful tools to create realistic outdoor environments.
-
 ## Features
-- **Viking Island Theme**: A detailed island with various Viking-inspired structures and nature elements.
-- **Foliage and Trees**: Realistic vegetation placed to create an immersive environment.
-- **Lighting**: A custom lighting setup to match the mood of a Viking island.
-- **Sound Effects**: Atmospheric sounds to enhance the experience.
+- **Viking Island Theme** 
+- **Foliage and Trees**
+- **Sound Effects**
 
 ## Screenshots
 
